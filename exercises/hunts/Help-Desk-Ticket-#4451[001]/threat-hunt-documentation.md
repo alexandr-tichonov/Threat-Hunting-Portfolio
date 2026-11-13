@@ -11,10 +11,13 @@ Below are the **initial constraints** provided for this "capture the flag styled
   <p><em>Figure 1: A figure depicting the observed login prompts (Provided by TheCyberRange) . </em></p> 
 </div>
 
-This issue would be investigated through the use of Microsoft Defender Portal (security.microsoft.com) within the "advanced hunting" tab.
 
-**Focus window:** 22 April 2026, 04:30 to 06:00 UTC./
+The incident would be investigated through the use of the Microsoft Defender Portal (security.microsoft.com) all KQL queries were made within the "advanced hunting" tab.
+
+**Focus window:** 22 April 2026, 04:30 to 06:00 UTC.\
 **Target host:** npt-ws01
+
+
 
 
 
